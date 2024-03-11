@@ -21,15 +21,13 @@ This project aims to visualize COVID-19 cases in India using Python and various 
 
 ## Files
 - `covid_visualization.ipynb`: Jupyter notebook containing the code for visualizing COVID-19 data.
-- `data/`: Directory containing the dataset(s) used for visualization.
-- `figures/`: Directory containing figures generated from the visualizations.
 
 ## Example Figures
 
 *Figure 1: Bar chart showing the total number of COVID-19 cases in different states of India.*
 ![Bar Chart](1.png)
 
-*Figure 2: Bar chart showing the total number of COVID-19 cases in different years in India.*
+*Figure 2: Bar chart showing the total number of COVID-19 cases in the year 2020(India).*
 ![Bar Chart](2.png)
 
 *Figure 3: Bar Chart displaying the distribution of COVID-19 cases in the year 2020 in India.*
@@ -40,5 +38,5 @@ This project aims to visualize COVID-19 cases in India using Python and various 
 
 
 ## Contributors
-- [Sucharitha Reddy Tiyyagura](https://github.com/stiyyagu25)
+- [Hemanth Kumar Reddy Tiyyagura](https://github.com/hemanth183)
 
