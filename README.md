@@ -30,13 +30,22 @@ This project aims to visualize COVID-19 cases in India using Python and various 
 *Figure 2: Bar chart showing the total number of COVID-19 cases in the year 2020(India).*
 ![Bar Chart](2.png)
 
-*Figure 3: Bar Chart displaying the distribution of COVID-19 cases in the year 2020 in India.*
-![Bar Chart](4.png)
+*Figure 3: Scatter Plot displaying the distribution of COVID-19 cases in month of February and March 2020 in India.*
+![Bar Chart](3.png)
 
 *Figure 4:Scatter plot displaying the distribution of COVID-19 cases in India.*
 ![Scatter Plot](newplot.png)
 
+*Figure 5:Map displaying the red zones states in India(2020).*
+![Scatter Plot](newplot.png)
+
+*Figure 6:Scatter plot showing the total cases in the yeay 2020(India)
+![Scatter Plot](newplot (1).png)
+
+*Figure 7:Comparision of COVID Cases in different countries
+![Scatter Plot](newplot.png)
+
 
 ## Contributors
-- [Hemanth Kumar Reddy Tiyyagura](https://github.com/hemanth183)
+- [Hemanth Kumar Reddy Tiyyagura](https://github.com/nanihemanth)
 
